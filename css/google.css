@@ -93,7 +93,6 @@ input[type="submit"][disabled]:focus {
 }
 input[type="submit"]:focus {
   /* Blue border on button focus. */
-
   border-color: #4d90fe;
   outline-style: none;
   background-color: #f3f3f3;
